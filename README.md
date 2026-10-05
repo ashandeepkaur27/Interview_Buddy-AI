@@ -1,8 +1,8 @@
-# 🤖 InterviewBuddy AI
+# 🤖 Interview_Buddy- AI
 
 > Practice smarter. Speak naturally. Get instant AI feedback.
 
-InterviewBuddy AI is a local AI-powered mock interview coach that helps users practice job interviews through **text or voice**.
+Interview_Buddy- AI is a local AI-powered mock interview coach that helps users practice job interviews through **text or voice**.
 
 It uses **Gemma 3 locally through Ollama** to generate realistic interview questions, evaluate answers, provide scores and feedback, and ask follow-up questions.
 
@@ -82,8 +82,9 @@ This gives users more control over their interview practice and avoids requiring
 
 🚀 Installation
 1. Clone the repository
-    git clone YOUR_GITHUB_REPOSITORY_URL
-    cd INTERVIEW_BUDDY
+    git clone https://github.com/ashandeepkaur27/Interview_Buddy-AI
+    cd Interview_Buddy-AI
+
 
 2. Create a virtual environment
     python -m venv venv
